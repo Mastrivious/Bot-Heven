@@ -1,0 +1,14 @@
+{
+  "name": "bot-heven",
+  "version": "1.0.0",
+  "description": "Bot Hevens Official Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mastrivious",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
